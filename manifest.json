@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Auction Tracker",
+  "description": "This extension will log an auction listing.",
+  "version": "0.1",
+ 
+  "page_action": {
+   "default_icon": "icon.png",
+   "default_title": "Auction Tracker"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
