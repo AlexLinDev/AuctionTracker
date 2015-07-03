@@ -1,0 +1,1 @@
+chrome.runtime.sendMessage({data: document.getElementsByClassName('lot-bidding')[0].innerHTML});
